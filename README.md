@@ -1,6 +1,6 @@
 # Hi, I'm S M Hasibur Rahman 👋
 
-- 🎓 **CSE Student at UIU (currently in the 7th trimester).**
+- 🎓 **CSE Student at UIU (currently in the 8th trimester).**
 - 📚 **Currently learning:** C++, C, Git, GitHub, Data Structures & Flutter.
 - 🚀 **Passionate about** coding, problem‑solving & building my skills.
 - 🌱 **Always exploring** new technologies.
@@ -35,7 +35,7 @@
 ---
 ## 📈 Contribution Journey :
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-hasib&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smhasiburrahman&theme=react-dark)
 
 ---
 ## 🧰 Tech Stack
